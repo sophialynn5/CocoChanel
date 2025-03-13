@@ -36,13 +36,16 @@ Our collection explores the life, fashion, and legacy of Gabrielle Bonheur "Coco
 
 
 DSCI/LIB 350M Humanities Research Data Management
+
 Instructor: Franny Gaede
+
 Winter Term
 
 
 
 
 Credit for these objects goes to all of these deserving institutions. 
+
 The New York Public Library, Documentary Repository of the University of Salamanca, Oslo Museum, The Nordic Museum, The Miriam and Ira D. Wallach Division of Art, Prints and Photographs, Carnavalet Museum, History of Paris, Deutsche Kinemathek - Museum for Film and Television, National Library of France, Getty Research Institute, The New School, UNT College of Visual Arts + Design, Département de Ville de Paris, and Metropolitan New York Library Council.
 
 
