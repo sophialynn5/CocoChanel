@@ -33,9 +33,10 @@ Our collection explores the life, fashion, and legacy of Gabrielle Bonheur "Coco
 
 
 
-## DSCI/LIB 350M Humanities Research Data Management
-## Instructor: Franny Gaede
-## Winter Term
+## DSCI/LIB 350M Humanities Research Data Management 
+Instructor: Franny Gaede 
+
+Winter Term
 
 
 
