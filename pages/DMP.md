@@ -51,7 +51,7 @@ Our collection explores the life, fashion, and legacy of Gabrielle Bonheur "Coco
   
 
 
-### 
+   
 
 ### **Appendix A: Data Dictionary**
 
