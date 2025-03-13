@@ -17,6 +17,26 @@ Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH
 
 <https://sophialynn5.github.io/CocoChanel/>
 
+DSCI/LIB 350M Humanities Research Data Management
+
+Instructor: Franny Gaede
+
+Winter Term
+
+In this class, we learn about the theory and practice of how people who work in galleries, libraries, archives, and museums manage data. We’ll look at & work with the different forms this data can take, such as images, video, sound, text, and maps, and examine the processes by which they are made available to interested humanities scholars. 
+
+Repository created by Sophia Lynn, Ella Marinace, & Autumn Hawkins
+
+Coco Chanel Collection
+
+Our collection explores the life, fashion, and legacy of Gabrielle Bonheur "Coco" Chanel, a designer who revolutionized the fashion industry. Chanel’s influence extends beyond clothing, redefining femininity through timeless styles that remain iconic today. This collection aims to document Chanel’s impact on modern fashion and cultural shifts, making it valuable to fashion historians, students, designers, and those interested in the evolution of style. The collection will include photographs, sketches, advertisements, fashion magazines, digital repositories, and articles, as well as items sourced from historical archives. 
+
+Our data management plan <https://sophialynn5.github.io/CocoChanel/DMP.html>
+
+
+
+
+
 CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
 Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
 
