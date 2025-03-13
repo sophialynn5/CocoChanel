@@ -8,19 +8,24 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-Sophia Lynn: 
-Project Director
+Sophia Lynn: Project Director
+
 Manages overall data organization, ensures goals are met, troubleshoots problems and helps group members in any other ways they need support. 
 
 
-Ella Marinace: 
-Data Collector
+
+
+Ella Marinace: Data Collector
+
 Responsible for gathering and verifying data, ensures accuracy and completeness.
 
 
-Autumn Hawkins: 
-Database Designer
+
+
+Autumn Hawkins: Database Designer
+
 Develops and maintains the database, ensures data is structured properly for accessibility and usability.
+
 
 
 
