@@ -22,6 +22,7 @@ Responsible for gathering and verifying data, ensures accuracy and completeness.
 
 Develops and maintains the database, ensures data is structured properly for accessibility and usability.
 
+##
 
 
 
@@ -38,7 +39,7 @@ Instructor: Franny Gaede
 
 Winter Term
 
-
+##
 
 
 # Credit for these objects goes to all of these deserving institutions. 
